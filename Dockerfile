@@ -1,5 +1,5 @@
 FROM alpine:3.15
-MAINTAINER Christoph Wiechert <wio@psitrax.de>
+MAINTAINER Eelco Wesemann <dockerhub@init1.nl>
 
 ENV POWERDNS_VERSION=4.6.0 \
     MYSQL_DEFAULT_AUTOCONF=true \
